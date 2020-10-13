@@ -1,8 +1,8 @@
 {
   "name": "pdfobject-initfromdom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "PDFObject Dom Init Support",
-  "main": "index.js",
+  "main": "pdfobject.initfromdom.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
