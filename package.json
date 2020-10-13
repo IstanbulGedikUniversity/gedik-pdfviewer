@@ -1,0 +1,22 @@
+{
+  "name": "pdfobject-initfromdom",
+  "version": "1.0.1",
+  "description": "PDFObject Dom Init Support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obzc/pdfobject-initfromdom.git"
+  },
+  "keywords": [
+    "pdfobject"
+  ],
+  "author": "obzc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obzc/pdfobject-initfromdom/issues"
+  },
+  "homepage": "https://github.com/obzc/pdfobject-initfromdom#readme"
+}
