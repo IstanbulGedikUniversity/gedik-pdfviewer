@@ -1,6 +1,6 @@
 {
   "name": "pdfobject-initfromdom",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "PDFObject Dom Init Support",
   "main": "pdfobject.initfromdom.js",
   "scripts": {
