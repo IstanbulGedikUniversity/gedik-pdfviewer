@@ -1,8 +1,8 @@
 {
-  "name": "pdfobject-initfromdom",
+  "name": "gedik-pdfviewer",
   "version": "1.0.3",
-  "description": "PDFObject Dom Init Support",
-  "main": "pdfobject.initfromdom.js",
+  "description": "gedik-pdfviewer",
+  "main": "gedik.pdfviewer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
