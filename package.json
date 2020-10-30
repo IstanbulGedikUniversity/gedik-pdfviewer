@@ -1,6 +1,6 @@
 {
   "name": "gedik-pdfviewer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "gedik-pdfviewer",
   "main": "gedik.pdfviewer.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/obzc/pdfobject-initfromdom.git"
+    "url": "git+https://github.com/IstanbulGedikUniversity/gedik-pdfviewer.git"
   },
   "keywords": [
     "pdfobject"
@@ -16,7 +16,7 @@
   "author": "obzc",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/obzc/pdfobject-initfromdom/issues"
+    "url": "https://github.com/IstanbulGedikUniversity/gedik-pdfviewer/issues"
   },
-  "homepage": "https://github.com/obzc/pdfobject-initfromdom#readme"
+  "homepage": "https://github.com/IstanbulGedikUniversity/gedik-pdfviewer#readme"
 }

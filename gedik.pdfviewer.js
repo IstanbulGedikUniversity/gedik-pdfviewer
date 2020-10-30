@@ -5,7 +5,7 @@ $('.viewPdf').each(function () {
     let options = {
         height: height,
         pdfOpenParams: {view: 'FitV'},
-        fallbackLink: '<iframe src="https://docs.google.com/viewer?url=' + file + '&embedded=true"' +
+        fallbackLink: '<iframe src="https://file.gedik.com.tr/pdfview/viewer.html?file=' + file + '#navpanes=0&toolbar=0&statusbar=0&pagemode=thumbs&view=FitV"' +
             'style="width:100%; height:' + height + ';" frameborder="0"></iframe><br />' +
             '<a class="btn btn-primary pull-right" href="'+file+'" download><i class="fa fa-download"></i></a>'
     };
