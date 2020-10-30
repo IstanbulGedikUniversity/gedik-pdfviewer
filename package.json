@@ -1,6 +1,6 @@
 {
   "name": "gedik-pdfviewer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "gedik-pdfviewer",
   "main": "gedik.pdfviewer.js",
   "scripts": {
