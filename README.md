@@ -14,5 +14,4 @@ Add package.json file:
 ```
 
 # Required Packages
-- [PDFObject](https://github.com/pipwerks/PDFObject/ "PDFObject")
 - [jQuery](https://github.com/jquery/jquery "jQuery")
