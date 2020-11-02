@@ -3,8 +3,9 @@ Quick and easy view your PDF files using dom in addition to the **PDFObject** pl
 *For cross platform support, if it is a browser or a phone that does not support pdf viewing, google uses embedded viewer.*
 
 # Installation
+Add package.json file:
 
-`npm i pdfobject-initfromdom --save`
+`"gedik-pdfviewer": "git+https://github.com/IstanbulGedikUniversity/gedik-pdfviewer.git",`
 
 # Usage
 
