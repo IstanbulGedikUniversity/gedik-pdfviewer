@@ -10,6 +10,13 @@ Add package.json file:
 "gedik-pdfviewer": "git+https://github.com/IstanbulGedikUniversity/gedik-pdfviewer.git",
 ```
 
+Add webpack.mix.js file:
+
+```
+'node_modules/pdfobject/pdfobject.min.js',
+'node_modules/gedik-pdfviewer/gedik.pdfviewer.js',
+```
+
 # Usage
 
 ```
