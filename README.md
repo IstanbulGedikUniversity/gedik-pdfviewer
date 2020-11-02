@@ -5,7 +5,10 @@ Quick and easy view your PDF files using dom in addition to the **PDFObject** pl
 # Installation
 Add package.json file:
 
-`"gedik-pdfviewer": "git+https://github.com/IstanbulGedikUniversity/gedik-pdfviewer.git",`
+```
+"pdfobject": "^2.2.4",
+"gedik-pdfviewer": "git+https://github.com/IstanbulGedikUniversity/gedik-pdfviewer.git",
+```
 
 # Usage
 
